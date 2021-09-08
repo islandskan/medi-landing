@@ -1,0 +1,151 @@
+.logo {
+    color: #0A1B32;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: -2%;
+    line-height: 1.6px;
+    position: absolute;
+    /*margin-top: 37px;
+    margin-left: 80px;*/
+}
+
+.logo-dot {
+    color: #FC569A;
+}
+
+
+header {
+    margin-left: 80px;
+    margin-top: 37px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    color: #1B0A42;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 2%;
+    line-height: 24px;
+    margin-left: 273px;
+    margin-top: 48px;
+}
+
+div {
+    float: left;
+}
+
+
+/*.sign-in {
+    color: #1B0A42;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 2%;
+    line-height: 24px;
+    margin-right: 229px;
+    margin-top: 48px;
+    max-width: 51px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}*/
+
+/*.sign-in-up {
+    margin-top: 30px;
+}*/
+
+.sign-up-btn {
+    background-color: #FC569A;
+    border-radius: 6px;
+    border: none;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    height: 60px;
+    letter-spacing: 2%;
+    line-height: 24px;
+    margin-right: 67.74px;
+    margin-top: 30px;
+    position: absolute;
+    text-align: center;
+    width: 152px;
+}
+
+
+.main-title {
+    color: #1B0A42;
+    font-family: 'Ramaraja', serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 2%;
+    line-height: 76px;
+    margin-left: 200px;
+    margin-top: 209px;
+    max-width: 495px;
+    width: 100%;
+}
+
+.main-info {
+    color: #9A9A9A;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 2%;
+    line-height: 32px;
+    margin-left: 200px;
+    margin-top: 10px;
+    max-width: 582px;
+    width: 100%;
+}
+
+.learn-more-btn {
+    background-color: #FC569A;
+    border-radius: 6px;
+    border: none;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    height: 64px;
+    letter-spacing: 2%;
+    line-height: 32px;
+    margin-left: 200px;
+    margin-top: 50px;
+    width: 152px;
+}
+
+.picture {
+    margin-left: 18.5px;
+    margin-top: 205px;
+    max-width: 778px;
+    position: absolute;
+    width: 100%;
+}
+
+section {
+    display: inline-block;
+}
+
+/*.nav-one {
+    margin-left: 97.5px;
+    margin-top: 48px;
+}*/
+
+/*.nav-one {
+    margin-left: 97.5px;
+    margin-top: 48px;
+}*/
